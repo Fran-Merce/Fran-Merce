@@ -36,6 +36,6 @@
 <a href="https://github.com/Fran-Merce/gradient-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-Merce&repo=gradient-generator&theme=dracula" />
 </a>
-<a href="https://github.com/Fran-Merce/100DaysOfCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-Merce&repo=100DaysOfCode&theme=dracula" />
+<a href="https://github.com/Fran-Merce/SHOPGLOW-integrador">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-Merce&repo=SHOPGLOW-integrador&theme=dracula" />
 </a>
