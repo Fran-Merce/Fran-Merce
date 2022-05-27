@@ -10,7 +10,7 @@
 
 - 👨‍💻 Mi Objetivo es convertime en un desarrollador Frontend
 
-- 🥵 Mi Porfolio es: [Próximamente...](Próximamente...)
+- 🥵 Mi Portfolio es: [Próximamente...](Próximamente...)
 
 - 📫 Si estas Interesado En Mi Contactame: Franmerce1@gmail.com 😎
 
@@ -27,15 +27,9 @@
 
 <br/>
  <a href="https://github.com/Fran-Merce/Fran-Merce">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fran-Merce&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/Fran-Merce/Fran-Merce">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fran-Merce&show_icons=true&theme=dracula&layaut=default" alt="Fran-Merce GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fran-Merce&layout=compact&show_icons=true&theme=dracula" />
 </a>
 
-<a href="https://github.com/Fran-Merce/gradient-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-Merce&repo=gradient-generator&theme=dracula" />
-</a>
 <a href="https://github.com/Fran-Merce/SHOPGLOW-integrador">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-Merce&repo=SHOPGLOW-integrador&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-Merce&repo=SHOPGLOW-integrador&theme=dracula" />
 </a>
