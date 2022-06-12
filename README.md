@@ -10,13 +10,7 @@
 
 - 👨‍💻 Mi Objetivo es convertime en un desarrollador Frontend
 
-- 🥵 Mi Portfolio es: [Próximamente...](Próximamente...)
-
 - 📫 Si estas Interesado En Mi Contactame: Franmerce1@gmail.com 😎
-
--  💬 No dudes en hablarme para hacer paircoding 😉
-
-- ⚡ Además de el desarrollo Me interesa todo lo relacionado al espacio y las estrellas tambien amo escuchar música 
 
 <h3 align="left">Linkedin:   <a href="https://www.linkedin.com/in/francisco-jes%C3%BAs-merc%C3%AA-a607b021a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco jesús mercê" height="30" width="40" /></a></h3>
 
