@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola 👋 Soy Francisco Merce</h1>
 <h3 align="center">Estudiante de desarrollo web  en busca de su primer Trabajo IT</h3>
-<h3 align="center">Fan de Javascript y Sass</h4>
+<h3 align="center">Fan de Javascript y React</h4>
 <br/>
 <h3 align="center" ><b>"La función de un buen Desarrollador es hacer que lo complejo aparente ser simple-- Grady Booch"</b></h3>
 <br/>
