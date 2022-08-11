@@ -1,6 +1,6 @@
 
 #  Hola👋 Dev, Soy Francisco Merce
-👨‍🦱 Desarrollador Web Enamorado del las tecnologias Frontend<br><br>👨‍🎓 Estoy Aprendiendo el stack MERN, actualmente estudiando node<br><br>👨‍💻 Mi Objetivo es conseguir mi primer empleo como desarrollador<br><br>📫 Si estas Interesado En Mi Contactame: Franmerce1@gmail.com 😎<br> <br>💕 Amo Javascript y Typescript
+👨‍🦱 Desarrollador Web Enamorado de las tecnologias Frontend<br><br>👨‍🎓 Estoy Aprendiendo el stack MERN, actualmente estudiando node<br><br>👨‍💻 Mi Objetivo es conseguir mi primer empleo como desarrollador<br><br>📫 Si estas Interesado En Mi Contactame: Franmerce1@gmail.com 😎<br> <br>💕 Amo Javascript y Typescript
 
 
 ## 🌐 Linkedin:
