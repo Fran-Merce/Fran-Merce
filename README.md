@@ -3,9 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-merce/)
 
 
-👨‍🦱 Desarrollador Web Enamorado de la programacion, con un año de experiencia como fullstack developer utilizando react, vue, y nestjs
+👨‍🦱 Web Developer In love with programming, with a year of experience as a fullstack developer using react, vue3, and nestjs
 
-📫 Si estas Interesado En Mi Contactame: Franmerce11@gmail.com 😎<br> <br>💕 Amo Javascript y Typescript
+📫 If you are interested in me contact me: Franmerce11@gmail.com 😎
+
+💕 I love Javascript y Typescript
 
 🚀 Porfolio <a href='https://www.fran-merce.live/' target='_blank'>Fran-merce.live </a>
 
@@ -28,10 +30,10 @@ const Skills: SkillsInterface = [
 ]
 ```
 
-# 👨‍🎓 Aprendiendo :
+## 👨‍🎓 Learning:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-# 📊 Estadisticas:
+## 📊statistics:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fran-merce&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
