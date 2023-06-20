@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi👋,%20I'm%20Francisco%20Merce&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hi👋,%20I'm%20Francisco%20Merce&fontSize=50)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-merce/)
 
