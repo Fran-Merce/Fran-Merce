@@ -15,7 +15,7 @@
 
 
 ```typescript
-const skills: SkillsInterface = [
+const skills: string[] = [
   "Typescript",
   "Javascript",
   "React",
