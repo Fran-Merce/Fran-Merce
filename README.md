@@ -10,7 +10,7 @@
 
 💕 I love Javascript y Typescript
 
-🚀 Porfolio <a href='https://www.fran-merce.live/' target='_blank'>Fran-merce.live </a>
+🚀 Porfolio coming soon...
 
 
 
