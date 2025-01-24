@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-merce/)
 
 
-👨‍🦱 Web Developer In love with programming, with a year of experience as a fullstack developer using react, vue3, and nestjs
+👨‍🦱 Web Developer In love with programming, with a  2 years of experience as a fullstack developer using react, vue3, and nestjs
 
 📫 If you are interested in me contact me: Franmerce11@gmail.com 😎
 
